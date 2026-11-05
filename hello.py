@@ -1,2 +1,2 @@
 # Nama : Vedanta, Baruna, Jessica
-# Kelas : DDP-C
+# Kelas : DDP-C~
